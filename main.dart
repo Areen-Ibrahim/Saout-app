@@ -17,9 +17,9 @@ void main() async {
   Platform.isAndroid?
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey           : "AIzaSyDJRcfYg_04LKNEljDvtEr0UDF2rtpckxs",
-      appId            : "1:488296458226:android:d5b87099badff0088fed6b",
-      messagingSenderId: "488296458226",
+      apiKey           : "",
+      appId            : "",
+      messagingSenderId: "",
       projectId        : "saoutapp",
       storageBucket: "saoutapp.appspot.com",
 
